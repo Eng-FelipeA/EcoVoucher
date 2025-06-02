@@ -48,12 +48,12 @@ Cada entrega foi realizada a partir da criação de uma **tag** em cada reposit�
  
 ### Requisitos Funcionais    
 
-![image](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/%C3%89picos.jpg)
+![image](https://github.com/Eng-FelipeA/EcoVoucher-App/blob/main/Assets/RF-APP-EcoVoucher.png)
 
 
 ### Requisitos Não Funcionais
 
-![image](https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Requisitos%20N%C3%A3o%20Funcionais.jpg)
+![image](https://github.com/Eng-FelipeA/EcoVoucher-App/blob/main/Assets/RNF-APP-EcoVoucher.png)
 
 
 ### User Stories
