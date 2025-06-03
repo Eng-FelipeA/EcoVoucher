@@ -11,18 +11,7 @@ O cidadão coleta o resíduo reciclável, leva até um dos pontos de coleta, pon
 
 ## Arquitetura
 
-<details>
-   <summary>Diagrama de Caso de Uso</summary>
-    <div align="center">
-        <img src="https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Diagrama%20de%20Caso%20de%20Uso%20EcoVoucher.jpg">
-    </div>
-</details>
-<details>
-   <summary>Diagrama de Classes</summary>
-    <div align="center">
-        <img src="https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Diagrama%20de%20Claesses%20EcoVoucher.jpg">
-    </div>
-</details>
+
 <details>
    <summary>Requisitos Funcionais</summary>
     <div align="center">
@@ -35,12 +24,7 @@ O cidadão coleta o resíduo reciclável, leva até um dos pontos de coleta, pon
         <img src="https://github.com/Eng-FelipeA/EcoVoucher-App/blob/main/Assets/RNF-APP-EcoVoucher.png">
     </div>
 </details>
-<details>
-   <summary>User Stories</summary>
-    <div align="center">
-        <img src="https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/User%20Stories.jpg">
-    </div>
-</details>
+
 
 
 ## Apresentação
