@@ -26,13 +26,13 @@ O cidadão coleta o resíduo reciclável, leva até um dos pontos de coleta, pon
 <details>
    <summary>Requisitos Funcionais</summary>
     <div align="center">
-        <img src="https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/%C3%89picos.jpg">
+        <img src="https://github.com/Eng-FelipeA/EcoVoucher-App/blob/main/Assets/RF-APP-EcoVoucherAtual.png">
     </div>
 </details>
 <details>
    <summary>Requisitos Não Funcionais</summary>
     <div align="center">
-        <img src="https://github.com/Eng-FelipeA/EcoVoucher/blob/main/Assets/Requisitos%20N%C3%A3o%20Funcionais.jpg">
+        <img src="https://github.com/Eng-FelipeA/EcoVoucher-App/blob/main/Assets/RNF-APP-EcoVoucher.png">
     </div>
 </details>
 <details>
